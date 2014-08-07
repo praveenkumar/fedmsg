@@ -61,7 +61,7 @@ Testimonials
 - `Jordan Sissel <http://www.semicomplete.com>`_ -- "Cool idea, gives new
   meaning to open infrastructure."
 - `David Gay <http://oddshocks.com>`_ -- "It's like I'm working with software
-  made by people who thought about the future".
+  made by people who thought about the future"
 
 
 Community
