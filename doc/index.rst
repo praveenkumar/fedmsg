@@ -3,7 +3,7 @@ Fedora Infrastructure Message Bus
 
 We want to hook all the services in Fedora Infrastructure up to send messages to
 one another over a message bus instead of communicating with each other in
-the heterogenous, "Rube-Goldberg" ways they do now.
+the heterogenous, "Rube-Goldberg" ways they do now
 
 ``fedmsg`` (Fedora-Messaging) is a python package and API used around
 Fedora Infrastructure to send and receive messages to and from applications.
